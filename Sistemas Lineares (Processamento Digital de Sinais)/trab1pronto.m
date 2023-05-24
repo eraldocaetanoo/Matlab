@@ -25,7 +25,7 @@ ng = nx+(-5); % trazendo o vetor nx para a esquerda
 
 % Plotando os sinais
 figure('Position', [85, 70, 1200, 600])
-stem(nx, x, 's', 'Color', 'red', 'LineWidth', 1.2, 'MarkerSize', 5.5, 'MarkerFaceColor', 'red');
+stem(nx, x, 's', 'Color', 'red', 'LineWidth', 1.2, 'MarkerSize', 5.5 , 'MarkerFaceColor', 'red');
 hold on;
 stem(nw, w, 'o', 'Color', 'green', 'LineWidth', 1.2, 'MarkerSize', 5.5, 'MarkerFaceColor', 'green');
 hold on;
