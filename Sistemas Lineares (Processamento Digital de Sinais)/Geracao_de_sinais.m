@@ -3,7 +3,7 @@
 
 % Vou chamar n de nx
 % Definindo o intervalo 0 >= nx >= 40
-n_0 = 0;
+n_0 = 0; 
 n_n = 40;
 nx = n_0:n_n;
 
