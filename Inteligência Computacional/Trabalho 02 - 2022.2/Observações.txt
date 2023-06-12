@@ -2,4 +2,4 @@
 Então, para conseguir fazer a leitura dos dados do arquivo tive que substituir, no arquivo, os nomes das categorias por números, ficando assim: "DH" -> 1; "SL" -> 2; "NO" -> 3.
 
 
-2 - O algoritmo RBF também demora um pouco. Só aguardar um pouco que o resultado sai.
+2 - O algoritmo RBF demora um pouco. Só aguardar um pouco que o resultado sai.
